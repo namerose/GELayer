@@ -1,0 +1,2066 @@
+{
+    "GE_Airport_Trenches_Seed_v1_AFU-RGF": {
+      "layerName": "GE_Airport_Trenches_Seed_v1_AFU-RGF",
+      "mapName": "AirportTrenches",
+      "mode": "Seed",
+      "version": "1",
+      "team 1": "AFU",
+      "team 2": "RGF"
+    },
+    "GE_AlBasrah_Invasion_v1_CAF-MEA": {
+      "layerName": "GE_AlBasrah_Invasion_v1_CAF-MEA",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "CAF",
+      "team 2": "MEA"
+    },
+    "GE_AlBasrah_Invasion_v1_FDF-AQINS": {
+      "layerName": "GE_AlBasrah_Invasion_v1_FDF-AQINS",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Invasion_v1_PLA-ADF": {
+      "layerName": "GE_AlBasrah_Invasion_v1_PLA-ADF",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "PLA",
+      "team 2": "ADF"
+    },
+    "GE_AlBasrah_Invasion_v1_PLA-USA": {
+      "layerName": "GE_AlBasrah_Invasion_v1_PLA-USA",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "PLA",
+      "team 2": "USA"
+    },
+    "GE_AlBasrah_Invasion_v1_USA-AQINS": {
+      "layerName": "GE_AlBasrah_Invasion_v1_USA-AQINS",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USA",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Invasion_v2_HAMAS-IDF": {
+      "layerName": "GE_AlBasrah_Invasion_v2_HAMAS-IDF",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "HAMAS",
+      "team 2": "IDF"
+    },
+    "GE_AlBasrah_Invasion_v2_HAMAS-WAGPMC": {
+      "layerName": "GE_AlBasrah_Invasion_v2_HAMAS-WAGPMC",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "HAMAS",
+      "team 2": "WAGPMC"
+    },
+    "GE_AlBasrah_Invasion_v2_TAF-AQINS": {
+      "layerName": "GE_AlBasrah_Invasion_v2_TAF-AQINS",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Invasion_v2_USSF-AQINS": {
+      "layerName": "GE_AlBasrah_Invasion_v2_USSF-AQINS",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Invasion_v2_USSF-WAGPMC": {
+      "layerName": "GE_AlBasrah_Invasion_v2_USSF-WAGPMC",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_AlBasrah_Invasion_v2_WAGPMC-AQINS": {
+      "layerName": "GE_AlBasrah_Invasion_v2_WAGPMC-AQINS",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "WAGPMC",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Invasion_v4_SC-KG": {
+      "layerName": "GE_AlBasrah_Invasion_v4_SC-KG",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "4",
+      "team 1": "SC",
+      "team 2": "KG"
+    },
+    "GE_AlBasrah_Invasion_v5_IDF-HEZ": {
+      "layerName": "GE_AlBasrah_Invasion_v5_IDF-HEZ",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "5",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_AlBasrah_Invasion_v6_IDF-HEZ": {
+      "layerName": "GE_AlBasrah_Invasion_v6_IDF-HEZ",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "6",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_AlBasrah_Invasion_v7_FDF-RUSOF": {
+      "layerName": "GE_AlBasrah_Invasion_v7_FDF-RUSOF",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "7",
+      "team 1": "FDF",
+      "team 2": "RUSOF"
+    },
+    "GE_AlBasrah_Invasion_v7_RUSOF-AQINS": {
+      "layerName": "GE_AlBasrah_Invasion_v7_RUSOF-AQINS",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "7",
+      "team 1": "RUSOF",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Invasion_v7_USMC-AQINS": {
+      "layerName": "GE_AlBasrah_Invasion_v7_USMC-AQINS",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "7",
+      "team 1": "USMC",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Invasion_v7_USMC-RUSOF": {
+      "layerName": "GE_AlBasrah_Invasion_v7_USMC-RUSOF",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "7",
+      "team 1": "USMC",
+      "team 2": "RUSOF"
+    },
+    "GE_AlBasrah_Invasion_v7_USSF-AQINS": {
+      "layerName": "GE_AlBasrah_Invasion_v7_USSF-AQINS",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "7",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Invasion_v7_USSF-RUSOF": {
+      "layerName": "GE_AlBasrah_Invasion_v7_USSF-RUSOF",
+      "mapName": "AlBasrah",
+      "mode": "Invasion",
+      "version": "7",
+      "team 1": "USSF",
+      "team 2": "RUSOF"
+    },
+    "GE_AlBasrah_RAAS_v1_USMC_WAG": {
+      "layerName": "GE_AlBasrah_RAAS_v1_USMC_WAG",
+      "mapName": "AlBasrah",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "USMC",
+      "team 2": "WAG"
+    },
+    "GE_AlBasrah_RAAS_v1_USSF_AQINS": {
+      "layerName": "GE_AlBasrah_RAAS_v1_USSF_AQINS",
+      "mapName": "AlBasrah",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Seed_TAF-AQINS": {
+      "layerName": "GE_AlBasrah_Seed_TAF-AQINS",
+      "mapName": "AlBasrah",
+      "mode": "Seed",
+      "version": "0",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Seed_USSF-AQINS": {
+      "layerName": "GE_AlBasrah_Seed_USSF-AQINS",
+      "mapName": "AlBasrah",
+      "mode": "Seed",
+      "version": "0",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_AlBasrah_Seed_USSF-WAGPMC": {
+      "layerName": "GE_AlBasrah_Seed_USSF-WAGPMC",
+      "mapName": "AlBasrah",
+      "mode": "Seed",
+      "version": "0",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Anvil_Invasion_v1_ADF-AQINS": {
+      "layerName": "GE_Anvil_Invasion_v1_ADF-AQINS",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "ADF",
+      "team 2": "AQINS"
+    },
+    "GE_Anvil_Invasion_v1_IDF-TAF": {
+      "layerName": "GE_Anvil_Invasion_v1_IDF-TAF",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "TAF"
+    },
+    "GE_Anvil_Invasion_v1_PLA_AQINS": {
+      "layerName": "GE_Anvil_Invasion_v1_PLA_AQINS",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "PLA",
+      "team 2": "AQINS"
+    },
+    "GE_Anvil_Invasion_v1_TAF_AQINS": {
+      "layerName": "GE_Anvil_Invasion_v1_TAF_AQINS",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_Anvil_Invasion_v1_USMC_AQINS": {
+      "layerName": "GE_Anvil_Invasion_v1_USMC_AQINS",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USMC",
+      "team 2": "AQINS"
+    },
+    "GE_Anvil_Invasion_v1_USSF-KG": {
+      "layerName": "GE_Anvil_Invasion_v1_USSF-KG",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "KG"
+    },
+    "GE_Anvil_Invasion_v1_USSF_AQINS": {
+      "layerName": "GE_Anvil_Invasion_v1_USSF_AQINS",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Anvil_Invasion_v1_USSF_WAGPMC": {
+      "layerName": "GE_Anvil_Invasion_v1_USSF_WAGPMC",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Anvil_Invasion_v1_WAGPMC-AQINS": {
+      "layerName": "GE_Anvil_Invasion_v1_WAGPMC-AQINS",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "AQINS"
+    },
+    "GE_Anvil_Invasion_v1_WAGPMC-TAF": {
+      "layerName": "GE_Anvil_Invasion_v1_WAGPMC-TAF",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "TAF"
+    },
+    "GE_Anvil_Invasion_v2_IDF-HEZ": {
+      "layerName": "GE_Anvil_Invasion_v2_IDF-HEZ",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Anvil_Invasion_v2_USA-AQINS": {
+      "layerName": "GE_Anvil_Invasion_v2_USA-AQINS",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USA",
+      "team 2": "AQINS"
+    },
+    "GE_Anvil_Invasion_v2_USSF_AQINS": {
+      "layerName": "GE_Anvil_Invasion_v2_USSF_AQINS",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Anvil_Invasion_v2_USSF_WAGPMC": {
+      "layerName": "GE_Anvil_Invasion_v2_USSF_WAGPMC",
+      "mapName": "Anvil",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Anvil_RAAS_v2_USSF_RUSOF": {
+      "layerName": "GE_Anvil_RAAS_v2_USSF_RUSOF",
+      "mapName": "Anvil",
+      "mode": "RAAS",
+      "version": "2",
+      "team 1": "USSF",
+      "team 2": "RUSOF"
+    },
+    "GE_Belaya_Invasion_v1_FDF-RGF": {
+      "layerName": "GE_Belaya_Invasion_v1_FDF-RGF",
+      "mapName": "Belaya",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "RGF"
+    },
+    "GE_Belaya_Invasion_v1_VDV-AFU": {
+      "layerName": "GE_Belaya_Invasion_v1_VDV-AFU",
+      "mapName": "Belaya",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "VDV",
+      "team 2": "AFU"
+    },
+    "GE_Belaya_Invasion_v1_WAGPMC-UAFI": {
+      "layerName": "GE_Belaya_Invasion_v1_WAGPMC-UAFI",
+      "mapName": "Belaya",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "UAFI"
+    },
+    "GE_BlackCoast_Invasion_v4_FDF-VDV": {
+      "layerName": "GE_BlackCoast_Invasion_v4_FDF-VDV",
+      "mapName": "BlackCoast",
+      "mode": "Invasion",
+      "version": "4",
+      "team 1": "FDF",
+      "team 2": "VDV"
+    },
+    "GE_BlackCoast_Invasion_v4_USSF-PLA": {
+      "layerName": "GE_BlackCoast_Invasion_v4_USSF-PLA",
+      "mapName": "BlackCoast",
+      "mode": "Invasion",
+      "version": "4",
+      "team 1": "USSF",
+      "team 2": "PLA"
+    },
+    "GE_BlackCoast_Invasion_v4_USSF-WAGPMC": {
+      "layerName": "GE_BlackCoast_Invasion_v4_USSF-WAGPMC",
+      "mapName": "BlackCoast",
+      "mode": "Invasion",
+      "version": "4",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_BlackCoast_Invasion_v4_VDV-UAFI": {
+      "layerName": "GE_BlackCoast_Invasion_v4_VDV-UAFI",
+      "mapName": "BlackCoast",
+      "mode": "Invasion",
+      "version": "4",
+      "team 1": "VDV",
+      "team 2": "UAFI"
+    },
+    "GE_BlackCoast_RAAS_v1_USMC-WAGPMC": {
+      "layerName": "GE_BlackCoast_RAAS_v1_USMC-WAGPMC",
+      "mapName": "BlackCoast",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "USMC",
+      "team 2": "WAGPMC"
+    },
+    "GE_BlackCoast_RAAS_v1_USSF-SC": {
+      "layerName": "GE_BlackCoast_RAAS_v1_USSF-SC",
+      "mapName": "BlackCoast",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "SC"
+    },
+    "GE_Chora_Invasion_v1_ADF-AQINS": {
+      "layerName": "GE_Chora_Invasion_v1_ADF-AQINS",
+      "mapName": "Chora",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "ADF",
+      "team 2": "AQINS"
+    },
+    "GE_Chora_Invasion_v1_CAF-PLA": {
+      "layerName": "GE_Chora_Invasion_v1_CAF-PLA",
+      "mapName": "Chora",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "CAF",
+      "team 2": "PLA"
+    },
+    "GE_Chora_Invasion_v1_IDF-HAMAS": {
+      "layerName": "GE_Chora_Invasion_v1_IDF-HAMAS",
+      "mapName": "Chora",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HAMAS"
+    },
+    "GE_Chora_Invasion_v1_USSF-AQINS": {
+      "layerName": "GE_Chora_Invasion_v1_USSF-AQINS",
+      "mapName": "Chora",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Chora_Invasion_v1_USSF-WAGPMC": {
+      "layerName": "GE_Chora_Invasion_v1_USSF-WAGPMC",
+      "mapName": "Chora",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Chora_Invasion_v2_IDF-HEZ": {
+      "layerName": "GE_Chora_Invasion_v2_IDF-HEZ",
+      "mapName": "Chora",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Chora_Invasion_v2_USA-WAGPMC": {
+      "layerName": "GE_Chora_Invasion_v2_USA-WAGPMC",
+      "mapName": "Chora",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USA",
+      "team 2": "WAGPMC"
+    },
+    "GE_Chora_Invasion_v2_USMC-HEZ": {
+      "layerName": "GE_Chora_Invasion_v2_USMC-HEZ",
+      "mapName": "Chora",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USMC",
+      "team 2": "HEZ"
+    },
+    "GE_Fallujah_Invasion_v1_ADF-AQINS": {
+      "layerName": "GE_Fallujah_Invasion_v1_ADF-AQINS",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "ADF",
+      "team 2": "AQINS"
+    },
+    "GE_Fallujah_Invasion_v1_ADF-MEA": {
+      "layerName": "GE_Fallujah_Invasion_v1_ADF-MEA",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "ADF",
+      "team 2": "MEA"
+    },
+    "GE_Fallujah_Invasion_v1_IDF-AQINS": {
+      "layerName": "GE_Fallujah_Invasion_v1_IDF-AQINS",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "AQINS"
+    },
+    "GE_Fallujah_Invasion_v1_IDF-HAMAS": {
+      "layerName": "GE_Fallujah_Invasion_v1_IDF-HAMAS",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HAMAS"
+    },
+    "GE_Fallujah_Invasion_v1_IDF-HEZ": {
+      "layerName": "GE_Fallujah_Invasion_v1_IDF-HEZ",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Fallujah_Invasion_v1_SC-KG": {
+      "layerName": "GE_Fallujah_Invasion_v1_SC-KG",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "SC",
+      "team 2": "KG"
+    },
+    "GE_Fallujah_Invasion_v1_TAF-AQINS": {
+      "layerName": "GE_Fallujah_Invasion_v1_TAF-AQINS",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_Fallujah_Invasion_v1_TAF-FDF": {
+      "layerName": "GE_Fallujah_Invasion_v1_TAF-FDF",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "FDF"
+    },
+    "GE_Fallujah_Invasion_v1_USA-AQINS_CQB": {
+      "layerName": "GE_Fallujah_Invasion_v1_USA-AQINS_CQB",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USA",
+      "team 2": "AQINS_CQB"
+    },
+    "GE_Fallujah_Invasion_v1_USSF-AQINS": {
+      "layerName": "GE_Fallujah_Invasion_v1_USSF-AQINS",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Fallujah_Invasion_v1_USSF-RUSOF": {
+      "layerName": "GE_Fallujah_Invasion_v1_USSF-RUSOF",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "RUSOF"
+    },
+    "GE_Fallujah_Invasion_v2_USMC-AQINS": {
+      "layerName": "GE_Fallujah_Invasion_v2_USMC-AQINS",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USMC",
+      "team 2": "AQINS"
+    },
+    "GE_Fallujah_Invasion_v3_HAMAS-IDF": {
+      "layerName": "GE_Fallujah_Invasion_v3_HAMAS-IDF",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "HAMAS",
+      "team 2": "IDF"
+    },
+    "GE_Fallujah_Invasion_v3_IDF-HEZ": {
+      "layerName": "GE_Fallujah_Invasion_v3_IDF-HEZ",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Fallujah_Invasion_v3_RUSOF-USMC": {
+      "layerName": "GE_Fallujah_Invasion_v3_RUSOF-USMC",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "RUSOF",
+      "team 2": "USMC"
+    },
+    "GE_Fallujah_Invasion_v3_TAF-AQINS": {
+      "layerName": "GE_Fallujah_Invasion_v3_TAF-AQINS",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_Fallujah_Invasion_v3_USSF-AQINS": {
+      "layerName": "GE_Fallujah_Invasion_v3_USSF-AQINS",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Fallujah_Invasion_v3_USSF-WAGPMC": {
+      "layerName": "GE_Fallujah_Invasion_v3_USSF-WAGPMC",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Fallujah_Invasion_v4_IDF-HEZ": {
+      "layerName": "GE_Fallujah_Invasion_v4_IDF-HEZ",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "4",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Fallujah_Invasion_v5_USA-AQINS": {
+      "layerName": "GE_Fallujah_Invasion_v5_USA-AQINS",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "5",
+      "team 1": "USA",
+      "team 2": "AQINS"
+    },
+    "GE_Fallujah_Invasion_v6_HAMAS-IDF": {
+      "layerName": "GE_Fallujah_Invasion_v6_HAMAS-IDF",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "6",
+      "team 1": "HAMAS",
+      "team 2": "IDF"
+    },
+    "GE_Fallujah_Invasion_v6_USMC-RUSOF": {
+      "layerName": "GE_Fallujah_Invasion_v6_USMC-RUSOF",
+      "mapName": "Fallujah",
+      "mode": "Invasion",
+      "version": "6",
+      "team 1": "USMC",
+      "team 2": "RUSOF"
+    },
+    "GE_Fallujah_Seed_v10_FDF-KG": {
+      "layerName": "GE_Fallujah_Seed_v10_FDF-KG",
+      "mapName": "Fallujah",
+      "mode": "Seed",
+      "version": "10",
+      "team 1": "FDF",
+      "team 2": "KG"
+    },
+    "GE_Fallujah_Seed_v1_HAMAS-WAGPMC": {
+      "layerName": "GE_Fallujah_Seed_v1_HAMAS-WAGPMC",
+      "mapName": "Fallujah",
+      "mode": "Seed",
+      "version": "1",
+      "team 1": "HAMAS",
+      "team 2": "WAGPMC"
+    },
+    "GE_Fallujah_Seed_v2_HAMAS-IDF": {
+      "layerName": "GE_Fallujah_Seed_v2_HAMAS-IDF",
+      "mapName": "Fallujah",
+      "mode": "Seed",
+      "version": "2",
+      "team 1": "HAMAS",
+      "team 2": "IDF"
+    },
+    "GE_Fallujah_Seed_v3_UAFI-WAGPMC": {
+      "layerName": "GE_Fallujah_Seed_v3_UAFI-WAGPMC",
+      "mapName": "Fallujah",
+      "mode": "Seed",
+      "version": "3",
+      "team 1": "UAFI",
+      "team 2": "WAGPMC"
+    },
+    "GE_Fallujah_Seed_v4_UAFI-VDV": {
+      "layerName": "GE_Fallujah_Seed_v4_UAFI-VDV",
+      "mapName": "Fallujah",
+      "mode": "Seed",
+      "version": "4",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_Fallujah_Seed_v5_USSF-AQINS": {
+      "layerName": "GE_Fallujah_Seed_v5_USSF-AQINS",
+      "mapName": "Fallujah",
+      "mode": "Seed",
+      "version": "5",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Fallujah_Seed_v6_USSF-WAGPMC": {
+      "layerName": "GE_Fallujah_Seed_v6_USSF-WAGPMC",
+      "mapName": "Fallujah",
+      "mode": "Seed",
+      "version": "6",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Fallujah_Seed_v7_USMC-RUSOF": {
+      "layerName": "GE_Fallujah_Seed_v7_USMC-RUSOF",
+      "mapName": "Fallujah",
+      "mode": "Seed",
+      "version": "7",
+      "team 1": "USMC",
+      "team 2": "RUSOF"
+    },
+    "GE_Fallujah_Seed_v8_IDF-HEZ": {
+      "layerName": "GE_Fallujah_Seed_v8_IDF-HEZ",
+      "mapName": "Fallujah",
+      "mode": "Seed",
+      "version": "8",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Fallujah_Seed_v9_SC-KG": {
+      "layerName": "GE_Fallujah_Seed_v9_SC-KG",
+      "mapName": "Fallujah",
+      "mode": "Seed",
+      "version": "9",
+      "team 1": "SC",
+      "team 2": "KG"
+    },
+    "GE_FoolsRoad_Invasion_v1_KG-FDF": {
+      "layerName": "GE_FoolsRoad_Invasion_v1_KG-FDF",
+      "mapName": "FoolsRoad",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "KG",
+      "team 2": "FDF"
+    },
+    "GE_FoolsRoad_Invasion_v1_KG-USA": {
+      "layerName": "GE_FoolsRoad_Invasion_v1_KG-USA",
+      "mapName": "FoolsRoad",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "KG",
+      "team 2": "USA"
+    },
+    "GE_FoolsRoad_Invasion_v1_RGF-UAFI": {
+      "layerName": "GE_FoolsRoad_Invasion_v1_RGF-UAFI",
+      "mapName": "FoolsRoad",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "RGF",
+      "team 2": "UAFI"
+    },
+    "GE_FoolsRoad_Invasion_v1_USSF-WAGPMC": {
+      "layerName": "GE_FoolsRoad_Invasion_v1_USSF-WAGPMC",
+      "mapName": "FoolsRoad",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_FoolsRoad_Invasion_v1_VDV-AFU": {
+      "layerName": "GE_FoolsRoad_Invasion_v1_VDV-AFU",
+      "mapName": "FoolsRoad",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "VDV",
+      "team 2": "AFU"
+    },
+    "GE_GooseBay_Invasion_VDVAssualt-AFU": {
+      "layerName": "GE_GooseBay_Invasion_VDVAssualt-AFU",
+      "mapName": "GooseBay",
+      "mode": "Invasion",
+      "version": "0",
+      "team 1": "VDVAssualt",
+      "team 2": "AFU"
+    },
+    "GE_GooseBay_Invasion_v1_FDF-VDV": {
+      "layerName": "GE_GooseBay_Invasion_v1_FDF-VDV",
+      "mapName": "GooseBay",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "VDV"
+    },
+    "GE_GooseBay_Invasion_v1_PLA-CAF": {
+      "layerName": "GE_GooseBay_Invasion_v1_PLA-CAF",
+      "mapName": "GooseBay",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "PLA",
+      "team 2": "CAF"
+    },
+    "GE_GooseBay_Invasion_v1_RGF-UAFI": {
+      "layerName": "GE_GooseBay_Invasion_v1_RGF-UAFI",
+      "mapName": "GooseBay",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "RGF",
+      "team 2": "UAFI"
+    },
+    "GE_GooseBay_Invasion_v1_USSF-WAGPMC": {
+      "layerName": "GE_GooseBay_Invasion_v1_USSF-WAGPMC",
+      "mapName": "GooseBay",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_GooseBay_Invasion_v1_VDV-AFU": {
+      "layerName": "GE_GooseBay_Invasion_v1_VDV-AFU",
+      "mapName": "GooseBay",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "VDV",
+      "team 2": "AFU"
+    },
+    "GE_GooseBay_Invasion_v5_USA-KG": {
+      "layerName": "GE_GooseBay_Invasion_v5_USA-KG",
+      "mapName": "GooseBay",
+      "mode": "Invasion",
+      "version": "5",
+      "team 1": "USA",
+      "team 2": "KG"
+    },
+    "GE_Gorodok_Invasion_v1_FDF-RGF": {
+      "layerName": "GE_Gorodok_Invasion_v1_FDF-RGF",
+      "mapName": "Gorodok",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "RGF"
+    },
+    "GE_Gorodok_Invasion_v1_UAF-RGF": {
+      "layerName": "GE_Gorodok_Invasion_v1_UAF-RGF",
+      "mapName": "Gorodok",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "UAF",
+      "team 2": "RGF"
+    },
+    "GE_Gorodok_Invasion_v1_UAFI-RUSOF": {
+      "layerName": "GE_Gorodok_Invasion_v1_UAFI-RUSOF",
+      "mapName": "Gorodok",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "UAFI",
+      "team 2": "RUSOF"
+    },
+    "GE_Gorodok_Invasion_v1_USSF-VDV": {
+      "layerName": "GE_Gorodok_Invasion_v1_USSF-VDV",
+      "mapName": "Gorodok",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "VDV"
+    },
+    "GE_Gorodok_Invasion_v2_UAFI-VDV": {
+      "layerName": "GE_Gorodok_Invasion_v2_UAFI-VDV",
+      "mapName": "Gorodok",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_Gorodok_Invasion_v2_USMC-PLA": {
+      "layerName": "GE_Gorodok_Invasion_v2_USMC-PLA",
+      "mapName": "Gorodok",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USMC",
+      "team 2": "PLA"
+    },
+    "GE_Gorodok_SEED_CASHELIS_UAFI-VDV": {
+      "layerName": "GE_Gorodok_SEED_CASHELIS_UAFI-VDV",
+      "mapName": "Gorodok",
+      "mode": "Seed",
+      "version": "0",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_Harju_Invasion_v1_AFU-VDV": {
+      "layerName": "GE_Harju_Invasion_v1_AFU-VDV",
+      "mapName": "Harju",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "AFU",
+      "team 2": "VDV"
+    },
+    "GE_Harju_Invasion_v2_FDF-RGF": {
+      "layerName": "GE_Harju_Invasion_v2_FDF-RGF",
+      "mapName": "Harju",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "FDF",
+      "team 2": "RGF"
+    },
+    "GE_Harju_Invasion_v2_UAFI-RGF": {
+      "layerName": "GE_Harju_Invasion_v2_UAFI-RGF",
+      "mapName": "Harju",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "UAFI",
+      "team 2": "RGF"
+    },
+    "GE_Harju_Invasion_v3_AFU-WAGPMC": {
+      "layerName": "GE_Harju_Invasion_v3_AFU-WAGPMC",
+      "mapName": "Harju",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "AFU",
+      "team 2": "WAGPMC"
+    },
+    "GE_Harju_Invasion_v4_AFU-RGF": {
+      "layerName": "GE_Harju_Invasion_v4_AFU-RGF",
+      "mapName": "Harju",
+      "mode": "Invasion",
+      "version": "4",
+      "team 1": "AFU",
+      "team 2": "RGF"
+    },
+    "GE_Harju_Invasion_v4_USMC-RUSOF": {
+      "layerName": "GE_Harju_Invasion_v4_USMC-RUSOF",
+      "mapName": "Harju",
+      "mode": "Invasion",
+      "version": "4",
+      "team 1": "USMC",
+      "team 2": "RUSOF"
+    },
+    "GE_Harju_Invasion_v5_UAFI-VDV": {
+      "layerName": "GE_Harju_Invasion_v5_UAFI-VDV",
+      "mapName": "Harju",
+      "mode": "Invasion",
+      "version": "5",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_Harju_RAAS_v2_UAFI-VDV": {
+      "layerName": "GE_Harju_RAAS_v2_UAFI-VDV",
+      "mapName": "Harju",
+      "mode": "RAAS",
+      "version": "2",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_Harju_Seed_v1_AFU-RGF": {
+      "layerName": "GE_Harju_Seed_v1_AFU-RGF",
+      "mapName": "Harju",
+      "mode": "Seed",
+      "version": "1",
+      "team 1": "AFU",
+      "team 2": "RGF"
+    },
+    "GE_JensensRange_HAMAS-IDF": {
+      "layerName": "GE_JensensRange_HAMAS-IDF",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "HAMAS",
+      "team 2": "IDF"
+    },
+    "GE_JensensRange_HAMAS-WAGPMC": {
+      "layerName": "GE_JensensRange_HAMAS-WAGPMC",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "HAMAS",
+      "team 2": "WAGPMC"
+    },
+    "GE_JensensRange_Training_AFU-RGF": {
+      "layerName": "GE_JensensRange_Training_AFU-RGF",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "AFU",
+      "team 2": "RGF"
+    },
+    "GE_JensensRange_Training_UAFI-VDV": {
+      "layerName": "GE_JensensRange_Training_UAFI-VDV",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_JensensRange_Training_UAFI-WAGPMC": {
+      "layerName": "GE_JensensRange_Training_UAFI-WAGPMC",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "UAFI",
+      "team 2": "WAGPMC"
+    },
+    "GE_Jensens_Range_FDF-KG": {
+      "layerName": "GE_Jensens_Range_FDF-KG",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "FDF",
+      "team 2": "KG"
+    },
+    "GE_Jensens_Range_SC-KG": {
+      "layerName": "GE_Jensens_Range_SC-KG",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "SC",
+      "team 2": "KG"
+    },
+    "GE_Jensens_Range_TAF-AQINS": {
+      "layerName": "GE_Jensens_Range_TAF-AQINS",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_Jensens_Range_USA-HEZ": {
+      "layerName": "GE_Jensens_Range_USA-HEZ",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "USA",
+      "team 2": "HEZ"
+    },
+    "GE_Jensens_Range_USMC-RUSOF": {
+      "layerName": "GE_Jensens_Range_USMC-RUSOF",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "USMC",
+      "team 2": "RUSOF"
+    },
+    "GE_Jensens_Range_USSF-AQINS": {
+      "layerName": "GE_Jensens_Range_USSF-AQINS",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Jensens_Range_USSF-RUSOF": {
+      "layerName": "GE_Jensens_Range_USSF-RUSOF",
+      "mapName": "JensensRange",
+      "mode": "Training",
+      "version": "0",
+      "team 1": "USSF",
+      "team 2": "RUSOF"
+    },
+    "GE_Kamdesh_Invasion_v1_FDF-AQINS": {
+      "layerName": "GE_Kamdesh_Invasion_v1_FDF-AQINS",
+      "mapName": "Kamdesh",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "AQINS"
+    },
+    "GE_Kamdesh_Invasion_v1_IDF-HAMAS": {
+      "layerName": "GE_Kamdesh_Invasion_v1_IDF-HAMAS",
+      "mapName": "Kamdesh",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HAMAS"
+    },
+    "GE_Kamdesh_Invasion_v1_IDF-RUSOF": {
+      "layerName": "GE_Kamdesh_Invasion_v1_IDF-RUSOF",
+      "mapName": "Kamdesh",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "RUSOF"
+    },
+    "GE_Kamdesh_Invasion_v1_USA-RGF": {
+      "layerName": "GE_Kamdesh_Invasion_v1_USA-RGF",
+      "mapName": "Kamdesh",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USA",
+      "team 2": "RGF"
+    },
+    "GE_Kamdesh_Invasion_v1_USSF-AQINS": {
+      "layerName": "GE_Kamdesh_Invasion_v1_USSF-AQINS",
+      "mapName": "Kamdesh",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Kamdesh_Invasion_v1_USSF-RUSOF": {
+      "layerName": "GE_Kamdesh_Invasion_v1_USSF-RUSOF",
+      "mapName": "Kamdesh",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "RUSOF"
+    },
+    "GE_Kamdesh_Invasion_v1_WAGPMC-HAMAS": {
+      "layerName": "GE_Kamdesh_Invasion_v1_WAGPMC-HAMAS",
+      "mapName": "Kamdesh",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "HAMAS"
+    },
+    "GE_Kamdesh_Invasion_v7_IDF-AQINS": {
+      "layerName": "GE_Kamdesh_Invasion_v7_IDF-AQINS",
+      "mapName": "Kamdesh",
+      "mode": "Invasion",
+      "version": "7",
+      "team 1": "IDF",
+      "team 2": "AQINS"
+    },
+    "GE_Kamdesh_Invasion_v7_WAGPMC-HAMAS": {
+      "layerName": "GE_Kamdesh_Invasion_v7_WAGPMC-HAMAS",
+      "mapName": "Kamdesh",
+      "mode": "Invasion",
+      "version": "7",
+      "team 1": "WAGPMC",
+      "team 2": "HAMAS"
+    },
+    "GE_Kohat_Invasion_v1_TAF-AQINS": {
+      "layerName": "GE_Kohat_Invasion_v1_TAF-AQINS",
+      "mapName": "Kohat",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_Kohat_Invasion_v1_TAF-WAGPMC": {
+      "layerName": "GE_Kohat_Invasion_v1_TAF-WAGPMC",
+      "mapName": "Kohat",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Kohat_Invasion_v1_USSF-AQINS": {
+      "layerName": "GE_Kohat_Invasion_v1_USSF-AQINS",
+      "mapName": "Kohat",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Kohat_Invasion_v1_USSF-WAGPMC": {
+      "layerName": "GE_Kohat_Invasion_v1_USSF-WAGPMC",
+      "mapName": "Kohat",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Kokan_Invasion_v1_CAF-MEA": {
+      "layerName": "GE_Kokan_Invasion_v1_CAF-MEA",
+      "mapName": "Kokan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "CAF",
+      "team 2": "MEA"
+    },
+    "GE_Kokan_Invasion_v1_IDF-HAMAS": {
+      "layerName": "GE_Kokan_Invasion_v1_IDF-HAMAS",
+      "mapName": "Kokan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HAMAS"
+    },
+    "GE_Kokan_Invasion_v1_IDF-HEZ": {
+      "layerName": "GE_Kokan_Invasion_v1_IDF-HEZ",
+      "mapName": "Kokan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Kokan_Invasion_v1_RUSOF-WAG": {
+      "layerName": "GE_Kokan_Invasion_v1_RUSOF-WAG",
+      "mapName": "Kokan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "RUSOF",
+      "team 2": "WAG"
+    },
+    "GE_Kokan_Invasion_v1_SC-KG": {
+      "layerName": "GE_Kokan_Invasion_v1_SC-KG",
+      "mapName": "Kokan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "SC",
+      "team 2": "KG"
+    },
+    "GE_Kokan_Invasion_v1_TAF-AQINS": {
+      "layerName": "GE_Kokan_Invasion_v1_TAF-AQINS",
+      "mapName": "Kokan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_Kokan_Invasion_v1_USA-KG": {
+      "layerName": "GE_Kokan_Invasion_v1_USA-KG",
+      "mapName": "Kokan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USA",
+      "team 2": "KG"
+    },
+    "GE_Kokan_Invasion_v1_USSF-WAGPMC": {
+      "layerName": "GE_Kokan_Invasion_v1_USSF-WAGPMC",
+      "mapName": "Kokan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Kokan_Invasion_v1_WAGPMC-AQINS": {
+      "layerName": "GE_Kokan_Invasion_v1_WAGPMC-AQINS",
+      "mapName": "Kokan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "AQINS"
+    },
+    "GE_Lashkar_Invasion_v1_ADF-AQINS": {
+      "layerName": "GE_Lashkar_Invasion_v1_ADF-AQINS",
+      "mapName": "Lashkar",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "ADF",
+      "team 2": "AQINS"
+    },
+    "GE_Lashkar_Invasion_v1_IDF-HAMAS": {
+      "layerName": "GE_Lashkar_Invasion_v1_IDF-HAMAS",
+      "mapName": "Lashkar",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HAMAS"
+    },
+    "GE_Lashkar_Invasion_v1_USSF-WAGPMC": {
+      "layerName": "GE_Lashkar_Invasion_v1_USSF-WAGPMC",
+      "mapName": "Lashkar",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Lashkar_Invasion_v1_WAGPMC-AQINS": {
+      "layerName": "GE_Lashkar_Invasion_v1_WAGPMC-AQINS",
+      "mapName": "Lashkar",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "AQINS"
+    },
+    "GE_Lashkar_Invasion_v3_IDF-HEZ": {
+      "layerName": "GE_Lashkar_Invasion_v3_IDF-HEZ",
+      "mapName": "Lashkar",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Logar_RAAS_v1_ADF-AQINS": {
+      "layerName": "GE_Logar_RAAS_v1_ADF-AQINS",
+      "mapName": "Logar",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "ADF",
+      "team 2": "AQINS"
+    },
+    "GE_Logar_RAAS_v1_USSF-WAGPMC": {
+      "layerName": "GE_Logar_RAAS_v1_USSF-WAGPMC",
+      "mapName": "Logar",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Logar_Seed_IDF-HAMAS": {
+      "layerName": "GE_Logar_Seed_IDF-HAMAS",
+      "mapName": "Logar",
+      "mode": "Seed",
+      "version": "0",
+      "team 1": "IDF",
+      "team 2": "HAMAS"
+    },
+    "GE_Logar_Seed_USSF-AQINS": {
+      "layerName": "GE_Logar_Seed_USSF-AQINS",
+      "mapName": "Logar",
+      "mode": "Seed",
+      "version": "0",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Logar_Seed_USSF-WAGPMC": {
+      "layerName": "GE_Logar_Seed_USSF-WAGPMC",
+      "mapName": "Logar",
+      "mode": "Seed",
+      "version": "0",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Manicouagan_Invasion_v1_AFU-VDV": {
+      "layerName": "GE_Manicouagan_Invasion_v1_AFU-VDV",
+      "mapName": "Manicouagan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "AFU",
+      "team 2": "VDV"
+    },
+    "GE_Manicouagan_Invasion_v1_FDF-RUSOF": {
+      "layerName": "GE_Manicouagan_Invasion_v1_FDF-RUSOF",
+      "mapName": "Manicouagan",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "RUSOF"
+    },
+    "GE_Manicouagan_Invasion_v2_UAFI-WAGPMC": {
+      "layerName": "GE_Manicouagan_Invasion_v2_UAFI-WAGPMC",
+      "mapName": "Manicouagan",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "UAFI",
+      "team 2": "WAGPMC"
+    },
+    "GE_Manicouagan_Invasion_v3_UAFI-VDV": {
+      "layerName": "GE_Manicouagan_Invasion_v3_UAFI-VDV",
+      "mapName": "Manicouagan",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_Manicouagan_Invasion_v4_AFU-WAGPMC": {
+      "layerName": "GE_Manicouagan_Invasion_v4_AFU-WAGPMC",
+      "mapName": "Manicouagan",
+      "mode": "Invasion",
+      "version": "4",
+      "team 1": "AFU",
+      "team 2": "WAGPMC"
+    },
+    "GE_Manicouagan_Invasion_v5_USSF-RUSOF": {
+      "layerName": "GE_Manicouagan_Invasion_v5_USSF-RUSOF",
+      "mapName": "Manicouagan",
+      "mode": "Invasion",
+      "version": "5",
+      "team 1": "USSF",
+      "team 2": "RUSOF"
+    },
+    "GE_Manicouagan_Invasion_v6_USMC-RUSOF": {
+      "layerName": "GE_Manicouagan_Invasion_v6_USMC-RUSOF",
+      "mapName": "Manicouagan",
+      "mode": "Invasion",
+      "version": "6",
+      "team 1": "USMC",
+      "team 2": "RUSOF"
+    },
+    "GE_Manicouagan_Invasion_v7_USSF-WAGPMC": {
+      "layerName": "GE_Manicouagan_Invasion_v7_USSF-WAGPMC",
+      "mapName": "Manicouagan",
+      "mode": "Invasion",
+      "version": "7",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Manicouagan_Invasion_v8_USSF-RGF": {
+      "layerName": "GE_Manicouagan_Invasion_v8_USSF-RGF",
+      "mapName": "Manicouagan",
+      "mode": "Invasion",
+      "version": "8",
+      "team 1": "USSF",
+      "team 2": "RGF"
+    },
+    "GE_Manicouagan_Invasion_v9_USMC-RUSOF": {
+      "layerName": "GE_Manicouagan_Invasion_v9_USMC-RUSOF",
+      "mapName": "Manicouagan",
+      "mode": "Invasion",
+      "version": "9",
+      "team 1": "USMC",
+      "team 2": "RUSOF"
+    },
+    "GE_Mestia_Invasion_v1_FDF-WAGPMC": {
+      "layerName": "GE_Mestia_Invasion_v1_FDF-WAGPMC",
+      "mapName": "Mestia",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Mestia_Invasion_v1_UAFI-WAGPMC": {
+      "layerName": "GE_Mestia_Invasion_v1_UAFI-WAGPMC",
+      "mapName": "Mestia",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "UAFI",
+      "team 2": "WAGPMC"
+    },
+    "GE_Mestia_RAAS_v1_WAGPMC-UAFI": {
+      "layerName": "GE_Mestia_RAAS_v1_WAGPMC-UAFI",
+      "mapName": "Mestia",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "UAFI"
+    },
+    "GE_Mutaha_Invasion_v1_IDF-RUSOF": {
+      "layerName": "GE_Mutaha_Invasion_v1_IDF-RUSOF",
+      "mapName": "Mutaha",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "RUSOF"
+    },
+    "GE_Mutaha_Invasion_v1_SC-KG": {
+      "layerName": "GE_Mutaha_Invasion_v1_SC-KG",
+      "mapName": "Mutaha",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "SC",
+      "team 2": "KG"
+    },
+    "GE_Mutaha_Invasion_v1_TAF-AQINS": {
+      "layerName": "GE_Mutaha_Invasion_v1_TAF-AQINS",
+      "mapName": "Mutaha",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_Mutaha_Invasion_v1_USMC-TAF": {
+      "layerName": "GE_Mutaha_Invasion_v1_USMC-TAF",
+      "mapName": "Mutaha",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USMC",
+      "team 2": "TAF"
+    },
+    "GE_Mutaha_Invasion_v1_USSF-RGF": {
+      "layerName": "GE_Mutaha_Invasion_v1_USSF-RGF",
+      "mapName": "Mutaha",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "RGF"
+    },
+    "GE_Mutaha_Invasion_v1_VDV-IDF": {
+      "layerName": "GE_Mutaha_Invasion_v1_VDV-IDF",
+      "mapName": "Mutaha",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "VDV",
+      "team 2": "IDF"
+    },
+    "GE_Mutaha_Invasion_v2_IDF-HAMAS": {
+      "layerName": "GE_Mutaha_Invasion_v2_IDF-HAMAS",
+      "mapName": "Mutaha",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "IDF",
+      "team 2": "HAMAS"
+    },
+    "GE_Mutaha_Invasion_v2_USSF-AQINS": {
+      "layerName": "GE_Mutaha_Invasion_v2_USSF-AQINS",
+      "mapName": "Mutaha",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Mutaha_Seed_USSF-AQINS": {
+      "layerName": "GE_Mutaha_Seed_USSF-AQINS",
+      "mapName": "Mutaha",
+      "mode": "Seed",
+      "version": "0",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Narva_Invasion_v1_CAF-PLA": {
+      "layerName": "GE_Narva_Invasion_v1_CAF-PLA",
+      "mapName": "Narva",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "CAF",
+      "team 2": "PLA"
+    },
+    "GE_Narva_Invasion_v1_FDF-WAGPMC": {
+      "layerName": "GE_Narva_Invasion_v1_FDF-WAGPMC",
+      "mapName": "Narva",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Narva_Invasion_v1_RUSOF-WAGPMC": {
+      "layerName": "GE_Narva_Invasion_v1_RUSOF-WAGPMC",
+      "mapName": "Narva",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "RUSOF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Narva_Invasion_v1_USA-AQINS_CQB": {
+      "layerName": "GE_Narva_Invasion_v1_USA-AQINS_CQB",
+      "mapName": "Narva",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USA",
+      "team 2": "AQINS_CQB"
+    },
+    "GE_Narva_Invasion_v1_VDV-UAFI": {
+      "layerName": "GE_Narva_Invasion_v1_VDV-UAFI",
+      "mapName": "Narva",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "VDV",
+      "team 2": "UAFI"
+    },
+    "GE_Narva_Invasion_v2_AFU-RGF": {
+      "layerName": "GE_Narva_Invasion_v2_AFU-RGF",
+      "mapName": "Narva",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "AFU",
+      "team 2": "RGF"
+    },
+    "GE_Narva_Invasion_v4_SC-USA": {
+      "layerName": "GE_Narva_Invasion_v4_SC-USA",
+      "mapName": "Narva",
+      "mode": "Invasion",
+      "version": "4",
+      "team 1": "SC",
+      "team 2": "USA"
+    },
+    "GE_Narva_Seed_v1_RGF_AFU": {
+      "layerName": "GE_Narva_Seed_v1_RGF_AFU",
+      "mapName": "Narva",
+      "mode": "Seed",
+      "version": "1",
+      "team 1": "RGF",
+      "team 2": "AFU"
+    },
+    "GE_Narva_Seed_v1_VDV_UAFI": {
+      "layerName": "GE_Narva_Seed_v1_VDV_UAFI",
+      "mapName": "Narva",
+      "mode": "Seed",
+      "version": "1",
+      "team 1": "VDV",
+      "team 2": "UAFI"
+    },
+    "GE_Narva_Seed_v2_VDV_USSF": {
+      "layerName": "GE_Narva_Seed_v2_VDV_USSF",
+      "mapName": "Narva",
+      "mode": "Seed",
+      "version": "2",
+      "team 1": "VDV",
+      "team 2": "USSF"
+    },
+    "GE_Sanxian_Invasion_v1_USSF-RUSOF": {
+      "layerName": "GE_Sanxian_Invasion_v1_USSF-RUSOF",
+      "mapName": "Sanxian",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "RUSOF"
+    },
+    "GE_Sanxian_Invasion_v2_CAF-PLA": {
+      "layerName": "GE_Sanxian_Invasion_v2_CAF-PLA",
+      "mapName": "Sanxian",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "CAF",
+      "team 2": "PLA"
+    },
+    "GE_Sanxian_Invasion_v2_FDF-SC": {
+      "layerName": "GE_Sanxian_Invasion_v2_FDF-SC",
+      "mapName": "Sanxian",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "FDF",
+      "team 2": "SC"
+    },
+    "GE_Sanxian_Invasion_v2_PLA-USSF": {
+      "layerName": "GE_Sanxian_Invasion_v2_PLA-USSF",
+      "mapName": "Sanxian",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "PLA",
+      "team 2": "USSF"
+    },
+    "GE_Sanxian_Invasion_v2_SC-WAG": {
+      "layerName": "GE_Sanxian_Invasion_v2_SC-WAG",
+      "mapName": "Sanxian",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "SC",
+      "team 2": "WAG"
+    },
+    "GE_Sanxian_Invasion_v2_TAF-KG": {
+      "layerName": "GE_Sanxian_Invasion_v2_TAF-KG",
+      "mapName": "Sanxian",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "TAF",
+      "team 2": "KG"
+    },
+    "GE_Sanxian_Invasion_v2_USA-AQINS": {
+      "layerName": "GE_Sanxian_Invasion_v2_USA-AQINS",
+      "mapName": "Sanxian",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USA",
+      "team 2": "AQINS"
+    },
+    "GE_Sanxian_Invasion_v2_USA-AQINS_CQB": {
+      "layerName": "GE_Sanxian_Invasion_v2_USA-AQINS_CQB",
+      "mapName": "Sanxian",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USA",
+      "team 2": "AQINS_CQB"
+    },
+    "GE_Sanxian_Invasion_v2_USA-RGF": {
+      "layerName": "GE_Sanxian_Invasion_v2_USA-RGF",
+      "mapName": "Sanxian",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USA",
+      "team 2": "RGF"
+    },
+    "GE_Sanxian_RAAS_v1_FDF-KG": {
+      "layerName": "GE_Sanxian_RAAS_v1_FDF-KG",
+      "mapName": "Sanxian",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "KG"
+    },
+    "GE_Sanxian_RAAS_v1_USSF-WAG": {
+      "layerName": "GE_Sanxian_RAAS_v1_USSF-WAG",
+      "mapName": "Sanxian",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAG"
+    },
+    "GE_Sanxian_RAAS_v2_SC-KG": {
+      "layerName": "GE_Sanxian_RAAS_v2_SC-KG",
+      "mapName": "Sanxian",
+      "mode": "RAAS",
+      "version": "2",
+      "team 1": "SC",
+      "team 2": "KG"
+    },
+    "GE_Sanxian_RAAS_v2_SC-RUSOF": {
+      "layerName": "GE_Sanxian_RAAS_v2_SC-RUSOF",
+      "mapName": "Sanxian",
+      "mode": "RAAS",
+      "version": "2",
+      "team 1": "SC",
+      "team 2": "RUSOF"
+    },
+    "GE_Sanxian_Seed_v1_TAF-USA": {
+      "layerName": "GE_Sanxian_Seed_v1_TAF-USA",
+      "mapName": "Sanxian",
+      "mode": "Seed",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "USA"
+    },
+    "GE_Skorpo_Invasion_v1_USMC-WAGPMC": {
+      "layerName": "GE_Skorpo_Invasion_v1_USMC-WAGPMC",
+      "mapName": "Skorpo",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USMC",
+      "team 2": "WAGPMC"
+    },
+    "GE_Skorpo_Invasion_v2_USSF-TAF": {
+      "layerName": "GE_Skorpo_Invasion_v2_USSF-TAF",
+      "mapName": "Skorpo",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USSF",
+      "team 2": "TAF"
+    },
+    "GE_Sumari_Invasion_v1_FDF-HEZ": {
+      "layerName": "GE_Sumari_Invasion_v1_FDF-HEZ",
+      "mapName": "Sumari",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "HEZ"
+    },
+    "GE_Sumari_Invasion_v1_IDF-HAMAS": {
+      "layerName": "GE_Sumari_Invasion_v1_IDF-HAMAS",
+      "mapName": "Sumari",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HAMAS"
+    },
+    "GE_Sumari_Invasion_v1_IDF-HEZ": {
+      "layerName": "GE_Sumari_Invasion_v1_IDF-HEZ",
+      "mapName": "Sumari",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Sumari_Invasion_v1_TAF-AQINS": {
+      "layerName": "GE_Sumari_Invasion_v1_TAF-AQINS",
+      "mapName": "Sumari",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_Sumari_Invasion_v1_USA-AQINS": {
+      "layerName": "GE_Sumari_Invasion_v1_USA-AQINS",
+      "mapName": "Sumari",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USA",
+      "team 2": "AQINS"
+    },
+    "GE_Sumari_Invasion_v1_USA-AQINS_CQB": {
+      "layerName": "GE_Sumari_Invasion_v1_USA-AQINS_CQB",
+      "mapName": "Sumari",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USA",
+      "team 2": "AQINS_CQB"
+    },
+    "GE_Sumari_Invasion_v1_USMC-AQINS": {
+      "layerName": "GE_Sumari_Invasion_v1_USMC-AQINS",
+      "mapName": "Sumari",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USMC",
+      "team 2": "AQINS"
+    },
+    "GE_Sumari_Invasion_v1_USSF-WAGPMC": {
+      "layerName": "GE_Sumari_Invasion_v1_USSF-WAGPMC",
+      "mapName": "Sumari",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Sumari_Invasion_v1_WAGPMC-AQINS": {
+      "layerName": "GE_Sumari_Invasion_v1_WAGPMC-AQINS",
+      "mapName": "Sumari",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "AQINS"
+    },
+    "GE_Sumari_Invasion_v1_WAGPMC-USSF": {
+      "layerName": "GE_Sumari_Invasion_v1_WAGPMC-USSF",
+      "mapName": "Sumari",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "USSF"
+    },
+    "GE_Sumari_RAAS_v1_IDF-HEZ": {
+      "layerName": "GE_Sumari_RAAS_v1_IDF-HEZ",
+      "mapName": "Sumari",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Sumari_RAAS_v1_PLA-IDF": {
+      "layerName": "GE_Sumari_RAAS_v1_PLA-IDF",
+      "mapName": "Sumari",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "PLA",
+      "team 2": "IDF"
+    },
+    "GE_Sumari_RAAS_v1_TAF-WAGPMC": {
+      "layerName": "GE_Sumari_RAAS_v1_TAF-WAGPMC",
+      "mapName": "Sumari",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Sumari_RAAS_v1_USSF-WAGPMC": {
+      "layerName": "GE_Sumari_RAAS_v1_USSF-WAGPMC",
+      "mapName": "Sumari",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Sumari_RAAS_v1_WAGPMC-AQINS": {
+      "layerName": "GE_Sumari_RAAS_v1_WAGPMC-AQINS",
+      "mapName": "Sumari",
+      "mode": "RAAS",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "AQINS"
+    },
+    "GE_Sumari_Seed_v1_IDF-HAMAS": {
+      "layerName": "GE_Sumari_Seed_v1_IDF-HAMAS",
+      "mapName": "Sumari",
+      "mode": "Seed",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "HAMAS"
+    },
+    "GE_Sumari_Seed_v2_USSF-AQINS": {
+      "layerName": "GE_Sumari_Seed_v2_USSF-AQINS",
+      "mapName": "Sumari",
+      "mode": "Seed",
+      "version": "2",
+      "team 1": "USSF",
+      "team 2": "AQINS"
+    },
+    "GE_Sumari_Seed_v3_TAF-AQINS": {
+      "layerName": "GE_Sumari_Seed_v3_TAF-AQINS",
+      "mapName": "Sumari",
+      "mode": "Seed",
+      "version": "3",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_Sumari_Seed_v4_RUSOF-USMC": {
+      "layerName": "GE_Sumari_Seed_v4_RUSOF-USMC",
+      "mapName": "Sumari",
+      "mode": "Seed",
+      "version": "4",
+      "team 1": "RUSOF",
+      "team 2": "USMC"
+    },
+    "GE_Sumari_Seed_v5_FDF-AQINS": {
+      "layerName": "GE_Sumari_Seed_v5_FDF-AQINS",
+      "mapName": "Sumari",
+      "mode": "Seed",
+      "version": "5",
+      "team 1": "FDF",
+      "team 2": "AQINS"
+    },
+    "GE_Tallil_Invasion_v1_FDF-AQINS": {
+      "layerName": "GE_Tallil_Invasion_v1_FDF-AQINS",
+      "mapName": "Tallil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "AQINS"
+    },
+    "GE_Tallil_Invasion_v1_IDF-TAF": {
+      "layerName": "GE_Tallil_Invasion_v1_IDF-TAF",
+      "mapName": "Tallil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "IDF",
+      "team 2": "TAF"
+    },
+    "GE_Tallil_Invasion_v1_SC-KG": {
+      "layerName": "GE_Tallil_Invasion_v1_SC-KG",
+      "mapName": "Tallil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "SC",
+      "team 2": "KG"
+    },
+    "GE_Tallil_Invasion_v1_TAF-AQINS": {
+      "layerName": "GE_Tallil_Invasion_v1_TAF-AQINS",
+      "mapName": "Tallil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "AQINS"
+    },
+    "GE_Tallil_Invasion_v1_USSF-WAGPMC": {
+      "layerName": "GE_Tallil_Invasion_v1_USSF-WAGPMC",
+      "mapName": "Tallil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Tallil_Invasion_v1_WAGPMC-AQINS": {
+      "layerName": "GE_Tallil_Invasion_v1_WAGPMC-AQINS",
+      "mapName": "Tallil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "AQINS"
+    },
+    "GE_Tallil_Invasion_v1_WAGPMC-TAF": {
+      "layerName": "GE_Tallil_Invasion_v1_WAGPMC-TAF",
+      "mapName": "Tallil",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "WAGPMC",
+      "team 2": "TAF"
+    },
+    "GE_Tallil_Invasion_v2_IDF-HAMAS": {
+      "layerName": "GE_Tallil_Invasion_v2_IDF-HAMAS",
+      "mapName": "Tallil",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "IDF",
+      "team 2": "HAMAS"
+    },
+    "GE_Tallil_Invasion_v2_IDF-HEZ": {
+      "layerName": "GE_Tallil_Invasion_v2_IDF-HEZ",
+      "mapName": "Tallil",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "IDF",
+      "team 2": "HEZ"
+    },
+    "GE_Tallil_Invasion_v3_USMC-KG": {
+      "layerName": "GE_Tallil_Invasion_v3_USMC-KG",
+      "mapName": "Tallil",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "USMC",
+      "team 2": "KG"
+    },
+    "GE_Tallil_RAAS_v2_IDF_RUSOF": {
+      "layerName": "GE_Tallil_RAAS_v2_IDF_RUSOF",
+      "mapName": "Tallil",
+      "mode": "RAAS",
+      "version": "2",
+      "team 1": "IDF",
+      "team 2": "RUSOF"
+    },
+    "GE_Tallil_SEED_CASHELIS_UAFI-VDV": {
+      "layerName": "GE_Tallil_SEED_CASHELIS_UAFI-VDV",
+      "mapName": "Tallil",
+      "mode": "Seed",
+      "version": "0",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_Tallil_SEED_v1_CAS_HELIS_UAFI-VDV": {
+      "layerName": "GE_Tallil_SEED_v1_CAS_HELIS_UAFI-VDV",
+      "mapName": "Tallil",
+      "mode": "Seed",
+      "version": "1",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_Yehorivka_Invasion_v1_FDF-RUSOF": {
+      "layerName": "GE_Yehorivka_Invasion_v1_FDF-RUSOF",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "FDF",
+      "team 2": "RUSOF"
+    },
+    "GE_Yehorivka_Invasion_v1_SC-KG": {
+      "layerName": "GE_Yehorivka_Invasion_v1_SC-KG",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "SC",
+      "team 2": "KG"
+    },
+    "GE_Yehorivka_Invasion_v1_TAF-IDF": {
+      "layerName": "GE_Yehorivka_Invasion_v1_TAF-IDF",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "TAF",
+      "team 2": "IDF"
+    },
+    "GE_Yehorivka_Invasion_v1_USSF-KG": {
+      "layerName": "GE_Yehorivka_Invasion_v1_USSF-KG",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "KG"
+    },
+    "GE_Yehorivka_Invasion_v1_USSF-SC": {
+      "layerName": "GE_Yehorivka_Invasion_v1_USSF-SC",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "1",
+      "team 1": "USSF",
+      "team 2": "SC"
+    },
+    "GE_Yehorivka_Invasion_v2_RGF-FDF": {
+      "layerName": "GE_Yehorivka_Invasion_v2_RGF-FDF",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "RGF",
+      "team 2": "FDF"
+    },
+    "GE_Yehorivka_Invasion_v2_RGF-UAFI": {
+      "layerName": "GE_Yehorivka_Invasion_v2_RGF-UAFI",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "RGF",
+      "team 2": "UAFI"
+    },
+    "GE_Yehorivka_Invasion_v2_USSF-WAGPMC": {
+      "layerName": "GE_Yehorivka_Invasion_v2_USSF-WAGPMC",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    },
+    "GE_Yehorivka_Invasion_v2_VDV-AFU": {
+      "layerName": "GE_Yehorivka_Invasion_v2_VDV-AFU",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "VDV",
+      "team 2": "AFU"
+    },
+    "GE_Yehorivka_Invasion_v2_VDV-UAFI": {
+      "layerName": "GE_Yehorivka_Invasion_v2_VDV-UAFI",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "VDV",
+      "team 2": "UAFI"
+    },
+    "GE_Yehorivka_Invasion_v2_WAGPMC-UAFI": {
+      "layerName": "GE_Yehorivka_Invasion_v2_WAGPMC-UAFI",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "2",
+      "team 1": "WAGPMC",
+      "team 2": "UAFI"
+    },
+    "GE_Yehorivka_Invasion_v3_UAFI-WAGPMC": {
+      "layerName": "GE_Yehorivka_Invasion_v3_UAFI-WAGPMC",
+      "mapName": "Yehorivka",
+      "mode": "Invasion",
+      "version": "3",
+      "team 1": "UAFI",
+      "team 2": "WAGPMC"
+    },
+    "GE_Yehorivka_Seed_v1_UAFI-VDV": {
+      "layerName": "GE_Yehorivka_Seed_v1_UAFI-VDV",
+      "mapName": "Yehorivka",
+      "mode": "Seed",
+      "version": "1",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_Yehorivka_Seed_v2_UAFI-VDV": {
+      "layerName": "GE_Yehorivka_Seed_v2_UAFI-VDV",
+      "mapName": "Yehorivka",
+      "mode": "Seed",
+      "version": "2",
+      "team 1": "UAFI",
+      "team 2": "VDV"
+    },
+    "GE_Yehorivka_Skirmish_v2_USSF-WAGPMC": {
+      "layerName": "GE_Yehorivka_Skirmish_v2_USSF-WAGPMC",
+      "mapName": "Yehorivka",
+      "mode": "Skirmish",
+      "version": "2",
+      "team 1": "USSF",
+      "team 2": "WAGPMC"
+    }
+  }
